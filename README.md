@@ -30,4 +30,6 @@ Everything here follows one rule: no claim without a check you can run.
 > a month across the Workshown line · at most one new repo per quarter, and only after the last
 > one earned it · quarterly review against a public metrics table.
 
+**Follow the work:** [the free Claude Code Quick Wins Kit](https://learningai365.kit.com/f27ea7c05a) — one list across the recipes, the tools, and the book.
+
 **Contact:** [sgharlow@gmail.com](mailto:sgharlow@gmail.com) · [LinkedIn](https://www.linkedin.com/in/stevengharlow/)
